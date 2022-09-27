@@ -15,5 +15,6 @@
     "@monorepo-example/patient": "^1.0.0",
     "@monorepo-example/scheduler": "^1.0.0",
     "ts-node": "^7.0.1"
-  }
+  },
+  "gitHead": "7d9a56b0eba45d38e253742233b52462a00b76db"
 }
