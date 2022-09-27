@@ -1,0 +1,27 @@
+{
+  "name": "@monorepo-example/patient",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Dor Schrieber <schreiberdor@gmail.com>",
+  "homepage": "https://github.com/dor1202/MonoRepoExample#readme",
+  "license": "ISC",
+  "main": "lib/patient.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dor1202/MonoRepoExample.git"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "node ./__tests__/patient.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/dor1202/MonoRepoExample/issues"
+  }
+}

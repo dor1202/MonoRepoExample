@@ -1,0 +1,19 @@
+{
+  "name": "integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@monorepo-example/doctor": "^1.0.0",
+    "@monorepo-example/patient": "^1.0.0",
+    "@monorepo-example/scheduler": "^1.0.0",
+    "ts-node": "^7.0.1"
+  }
+}
