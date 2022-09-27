@@ -1,6 +1,6 @@
 {
   "name": "integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@monorepo-example/doctor": "^1.0.0",
-    "@monorepo-example/patient": "^1.0.0",
-    "@monorepo-example/scheduler": "^1.0.0",
+    "@monorepo-example/doctor": "^1.0.1",
+    "@monorepo-example/patient": "^1.0.1",
+    "@monorepo-example/scheduler": "^1.0.1",
     "ts-node": "^7.0.1"
   },
   "gitHead": "7d9a56b0eba45d38e253742233b52462a00b76db"
