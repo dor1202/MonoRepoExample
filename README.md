@@ -1,0 +1,2 @@
+# MonoRepoExample
+Mono Repository Example
