@@ -16,5 +16,5 @@
     "@monorepo-example/scheduler": "^1.0.3",
     "ts-node": "^7.0.1"
   },
-  "gitHead": "3a089df4d6fd50096cb65f92654d95aa9c6f87de"
+  "gitHead": "55d9ca64c3e965aacd2bd4c7521c365ec188a586"
 }

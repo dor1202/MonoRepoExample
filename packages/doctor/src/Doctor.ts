@@ -1,3 +1,8 @@
-export class Doctor{
-private ss:number;
+export class Doctor {
+    private aa: number;
+    private bb: number;
+
+    test() {
+        console.log('wow');
+    }
 };
