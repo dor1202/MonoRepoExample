@@ -1,6 +1,6 @@
 {
   "name": "@monorepo-example/scheduler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "Dor Schrieber <schreiberdor@gmail.com>",
   "homepage": "https://github.com/dor1202/MonoRepoExample#readme",
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/dor1202/MonoRepoExample/issues"
   },
-  "gitHead": "8d979c8cea82445c4b43781cbb03a8d71cf22cde"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "3a089df4d6fd50096cb65f92654d95aa9c6f87de"
 }
